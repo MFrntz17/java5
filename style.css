@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color:#8b0000;
+    text-align: center;
+}
+
+h2{
+    color: #00008b;
+    text-align: center;
+}
+p{
+    color:#008b8b;
+    text-align: center;
+}
